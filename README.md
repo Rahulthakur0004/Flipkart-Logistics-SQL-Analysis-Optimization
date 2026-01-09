@@ -1,5 +1,7 @@
 # Flipkart-Logistics-SQL-Analysis-Optimization
 SQL-based logistics analytics project analyzing delivery delays, warehouse efficiency, agent performance, and route optimization using real-world datasets.
+
+
 📄 Project Overview
 
 This project focuses on analyzing Flipkart’s logistics operations using SQL to uncover inefficiencies in delivery performance, warehouse operations, and route management. By leveraging structured queries, the project aims to identify delivery delays, evaluate agent and warehouse efficiency, and provide data-driven insights to support operational optimization and improved customer satisfaction.
